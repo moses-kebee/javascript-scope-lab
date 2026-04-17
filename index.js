@@ -6,11 +6,11 @@ function addBurger() {
     burgers.push(newBurger);
 }
 
+function changeFeaturedDrink() {
+    featuredDrink = 'The JavaShake';
+}
+
 if (true) {
     const anotherNewBurger = 'Maple Bacon Burger';
     burgers.push(anotherNewBurger);
-}
-
-function changeFeaturedDrink() {
-    featuredDrink = 'The JavaShake';
 }
